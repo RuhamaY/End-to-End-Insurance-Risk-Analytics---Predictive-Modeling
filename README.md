@@ -24,7 +24,6 @@ AlphaCare seeks to improve its marketing and pricing strategy by:
 
 ## 🧱 Project Structure
 
-```
 
 acis-insurance-eda/
 ├── data/                         # Raw or processed datasets (tracked by DVC)
@@ -45,7 +44,6 @@ acis-insurance-eda/
 ├── README.md
 ├── requirements.txt
 
-````
 
 ---
 
