@@ -1,5 +1,3 @@
-Here is a comprehensive `README.md` file that includes all four tasks from the ACIS challenge: EDA (Task 1), DVC setup (Task 2), hypothesis testing (Task 3), and predictive modeling (Task 4).
-
 ---
 
 ## 📄 `README.md`
