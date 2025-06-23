@@ -150,8 +150,8 @@ acis-insurance-eda/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/acis-insurance-eda.git
-cd acis-insurance-eda
+git clone https://github.com/RuhamaY/End-to-End-Insurance-Risk-Analytics---Predictive-Modeling.git
+cd End-to-End-Insurance-Risk-Analytics---Predictive-Modeling
 ```
 
 ### 2. Install Requirements
